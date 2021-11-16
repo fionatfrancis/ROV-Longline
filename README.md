@@ -1,1 +1,8 @@
 # ROV-Longline
+
+THis is an analysis to compare data collected with a remotely operated vehicle and a longline survey to understand the difference in species detection between the two methods. As we move away from extractive sampling and into non-extractive sampling techniques it is difficult to know how the methods compare interms of their ability to detect the same species and size classes. This is particularly important for understanding temporal trends in a species or for detecting the effects of spatial reserves that may have been sampled using different methods that may or not be comparable. 
+
+
+This study was conducted in 2021 where 10, 2x2 km grid cells were sampled using both survey methods. The HBLL (hard bottom long line survey) is run every other year and samples rockfish using a longline with 225 hooks that is set parallel to contours targetting hardbottom substrate within the grid cell. The line is 800 m long and soaks for 2 hours. The line is baited with 30 g of squid per hook and draws from an infinte sampling area in theory but has a limited "catch rate" as there are only a certain number of hooks and therefore a cap on the number of fish that can be caught. 
+
+The ROV survey was conducted by running 4 perpendicular 200 m transects at even intervals along the longline set with as many repeats as possible for a total of 59 transects. The ROV samples within a 'set area' of the visible transect but can count as many fish in that area as possible unlike the longline (i.e. can observe schools and multiple fish at a given point).
